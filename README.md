@@ -10,8 +10,6 @@ No fixed layout — each experiment is added as either a single notebook/script 
 
 - Each experiment states the question it's answering up front, not just the method.
 - Where there's a "which is better" question, answer it with a measurable test (e.g. coverage, error, backtest result) — not just a visual.
-- Prefer synthetic/fallback data paths so notebooks still run without external API access or live market data.
-- Keep write-ups in plain language; save the formalism for code comments and docstrings.
 
 ## Current experiments
 
